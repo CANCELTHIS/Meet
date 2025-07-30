@@ -1,0 +1,7 @@
+{
+  "name": "Meeting Summarizer AI",
+  "description": "An intelligent assistant to record meeting audio, transcribe it, and generate a concise summary of key decisions, action items, and deadlines using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
